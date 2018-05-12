@@ -1,0 +1,25 @@
+_repo: The-Boy-Ranchers-in-Death-Valley--Or-Diamond-X-and-the-Poison-Mystery_27097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baker, Willard F.
+    gutenberg_agent_id: '2092'
+    url: http://www.gutenberg.org/2009/agents/2092
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcsh 'Ranches -- Juvenile fiction'
+title: The Boy Ranchers in Death Valley; Or, Diamond X and the Poison Mystery
+url: http://www.gutenberg.org/ebooks/27097
